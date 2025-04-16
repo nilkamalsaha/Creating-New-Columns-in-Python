@@ -5,6 +5,9 @@ After cleaning data types & issues, you may still not have the exact data that y
 - Datetime columns – extracting datetime components, applying datetime calculations etc.
 - Text columns – extracting text, splitting into multuiple columns, finding patterns etc.
 
+![image](https://github.com/user-attachments/assets/fed1057b-8d37-4a43-92b8-a4ed0f33e8d8)
+
+
 
 # Creating-Numeric-Columns-in-Python
 
