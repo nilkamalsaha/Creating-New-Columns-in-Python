@@ -29,3 +29,19 @@ Peter
 2. Check the data type of each column
 3. Create a numeric column using arithmetic
 4. Create a numeric column using condition logic
+
+# Creating-DateTime-Columns-in-Python
+
+Hello agin, 
+
+Using the data I sent over last week, can you calculate the number of days between the purchase and delivery date for each sale and save it as a new column called 'Delivery Time'?
+
+What were the average days from purchase to delivery?
+
+Thanks !
+Peter
+
+## Key Objectives
+
+1. Calculate the difference between two datetime columns and save it as a new colum
+2. Take the average of the new column. 
